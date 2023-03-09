@@ -1,0 +1,1 @@
+C:\Users\bob\source\repos\MVVM\XamlSamples\XamlSamples.csproj;x64
