@@ -6,12 +6,17 @@
              x:DataType="viewmodel:DetailViewModel"
              Title="DetailPage">
     <StackLayout Padding="20">
+        <Label 
+            Text="More About"
+            FontSize="25"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
         <Label Text="{Binding Text}"
                FontSize="25"
                 VerticalOptions="Center" 
                 HorizontalOptions="Center" />
 
-        <Button Text="Go Back"
+        <Button Text="Back"
                 Command="{Binding GoBackCommand}"/>
     </StackLayout>
 </ContentPage>

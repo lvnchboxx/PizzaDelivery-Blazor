@@ -12,8 +12,8 @@
           ColumnSpacing="10">
 
         <Image Grid.ColumnSpan="2"
-                Source="takasi.png"
-               BackgroundColor="OrangeRed"/>
+               Source="takasi.png"
+               BackgroundColor="#24701D"/>
 
         <Entry Placeholder="Enter task"
                Text="{Binding Text}"

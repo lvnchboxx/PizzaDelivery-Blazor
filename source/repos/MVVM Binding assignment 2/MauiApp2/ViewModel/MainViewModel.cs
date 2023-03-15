@@ -28,7 +28,7 @@ public partial class MainViewModel : ObservableObject
 
         if(connectivity.NetworkAccess != NetworkAccess.Internet)
         {
-            await Shell.Current.DisplayAlert("Uh Oh!", "No Internet", "OK");
+            await Shell.Current.DisplayAlert("woops!", "I Guess u r disconnected", "OK");
             return;
         }
 
