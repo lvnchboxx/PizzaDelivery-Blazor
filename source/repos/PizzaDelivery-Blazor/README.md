@@ -15,9 +15,8 @@ Go ahead and clone this repo to your machine, then dive in and [get started](/do
 
 | Session | Topics |
 | ----- | ---- |
-| [Session #0](/docs/00-get-started.md) | Get bits installed and build your first Blazor app |
-| [Session #1](/docs/01-components-and-layout.md) | Get started with components, create the app layout |
-| [Session #2](/docs/02-customize-a-pizza.md) | Add customized pizzas to orders  |
+| [Session #1](/PizzaDelivery-Blazor/Docs/session 1/Components and layputs.md) | Get started with components, create the app layout |
+| [Session #2](/Docs/session 2/Pizza-Customization.md) | Add customized pizzas to orders  |
 | [Session #3](/docs/03-show-order-status.md) | Show order status |
 | [Session #4](/docs/04-refactor-state-management.md) | Refactor state management |
 | [Session #5](/docs/05-checkout-with-validation.md) | Checkout with validation |
